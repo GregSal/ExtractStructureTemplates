@@ -15,3 +15,5 @@
 __EMPTY__
 # Local template files
 *.xml
+
+/.ipynb_checkpoints
